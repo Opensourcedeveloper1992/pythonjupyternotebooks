@@ -1,0 +1,3 @@
+# pythonjupyternotebooks
+
+list practice 
